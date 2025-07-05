@@ -27,7 +27,7 @@
 
 #wrapper {
     overflow-x: hidden;
-    background: linear-gradient(to right, #bbb, #c2f5de, #cbf7e4, #d4f8ea, #ddfaef);
+    background: linear-gradient(to right, #bbb, #edc2f5, #f7cbf3, #f8d4f5, #f7ddfa);
 }
 
 #sidebar-wrapper {
