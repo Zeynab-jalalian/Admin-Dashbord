@@ -60,7 +60,7 @@
 
 .list-group-item {
     border: none;
-    padding: 20p 30pxx;
+    padding: 20p 30px;
 }
 
 .list-group-item.active {
@@ -72,7 +72,7 @@
 
 @media(min-width:768px){
     #sidebar-wrapper{
-       
+        margin-left: 0;
     }
     #page-content-wrapper{
         min-width: 0;
